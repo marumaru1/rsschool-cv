@@ -59,5 +59,5 @@ if ( checkAge(age) ) {
     * TikTok school
    
 # English # 
-B1 (I had been practicing English on English courses)
+B1  (I had been practicing English on English courses)
 # HAVE A GOOD DAY ^_^ 
