@@ -393,8 +393,5 @@ section .container {
   background: #ff2cef;
   border: 2px solid #ff2cef;
 }
-.telegram {
 
-  float: right;
-  padding-right: 40px;
-}
+
